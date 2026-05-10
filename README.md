@@ -9,7 +9,7 @@ You made it through Crescent City. Maybe you found the truth. Maybe it found you
 
 Either way, you have opinions. We want to hear them.
 
-**Arcana Investigations** is a noir detective game built on tarot mechanics and player choice. It is hand-crafted, independently made, and still in active development. Your feedback shapes what comes next.
+**Arcana Investigations** is a noir detective series built on tarot mechanics and player choice. It is hand-crafted, independently made, and still in active development. Your feedback shapes what comes next.
 
 ---
 
@@ -23,7 +23,7 @@ Click **[New Issue](https://github.com/thetarotdetective/feedback/issues/new/cho
 | **Atmosphere Note** | Visuals, audio, UI, the overall vibe of a scene |
 | **Bug Report** | Something broke, a choice led nowhere, text displayed wrong |
 
-No GitHub account? Drop feedback at [our itch.io page](https://stackbilt-admin.itch.io/arcana-investigations) in the comments.
+No GitHub account? Drop feedback at [our itch.io page](https://tarotdetective.itch.io) in the comments.
 
 ---
 
@@ -37,10 +37,13 @@ Reply to your issue with your itch.io username and we will get it to you.
 
 ---
 
-## Current Release
+## Current Releases
 
-**Volume 0: The Hanged Man's Daughter**
-[Play on itch.io →](https://stackbilt-admin.itch.io/arcana-investigations)
+**Volume 0: The Hanged Man's Daughter** — Free
+[Play on itch.io →](https://tarotdetective.itch.io/arcana-investigations)
+
+**Volume 1: Crescent City Murders**
+[Play on itch.io →](https://tarotdetective.itch.io/arcana-investigations-volume-1)
 
 ---
 
