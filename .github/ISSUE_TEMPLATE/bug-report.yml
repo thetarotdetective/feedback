@@ -1,0 +1,62 @@
+name: Bug Report
+description: Something broke, a choice led nowhere, text displayed wrong
+title: "[Bug] "
+labels: ["bug", "vol-0"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The city has enough unsolved cases. Help us close this one.
+  - type: dropdown
+    id: volume
+    attributes:
+      label: Which release?
+      options:
+        - "Volume 0: The Hanged Man's Daughter"
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Where were you playing?
+      options:
+        - Browser (itch.io web player)
+        - Downloaded (HTML5 zip)
+        - Mobile browser
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser / OS (if relevant)
+      placeholder: "e.g. Chrome 124 on Windows 11 / Safari on iPhone"
+  - type: textarea
+    id: what_happened
+    attributes:
+      label: What happened?
+      description: Describe the bug. What did you expect? What did you get?
+      placeholder: "I clicked the choice to follow Mireille and the game froze / the text overlapped the portrait image / a card was drawn but nothing changed..."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How do we see what you saw?
+      placeholder: |
+        1. Start a new game
+        2. Choose "Follow the money"
+        3. Draw the tarot card
+        4. ...
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Screenshots, console errors, save state details — anything helps.
+  - type: input
+    id: itch_username
+    attributes:
+      label: Your itch.io username (for free key)
+      description: Optional — leave this to claim a free key for the next release.
+      placeholder: your-itch-username
